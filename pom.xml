@@ -12,7 +12,7 @@
 
 
     <properties>
-        <org.springframework.version>6.1.13</org.springframework.version>
+        <org.springframework.version>6.1.14</org.springframework.version>
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
